@@ -1,0 +1,26 @@
+{
+    "name": "Uniswap Default",
+    "timestamp": "2020-10-03T19:48:24.661Z",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "patch": 3
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmZgpZq1HkVS7YCThNJeR51KFVo5AL8P3ThA2y9wcw53p9",
+    "keywords": [
+      "uniswap",
+      "idchain"
+    ],
+    "tokens": [
+      {
+        "name": "Aragon on IDChain",
+        "address": "0x01e8A98397FBD060daA10feF834534C561744A9e",
+        "symbol": "ANT",
+        "decimals": 18,
+        "chainId": 74,
+        "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+      }
+    ]
+  }
+  
